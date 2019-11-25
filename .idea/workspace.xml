@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984c2726-cd78-4b3f-a407-020cd64718b8" name="Default Changelist" comment="" />
+    <list default="true" id="984c2726-cd78-4b3f-a407-020cd64718b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/article.js" beforeDir="false" afterPath="$PROJECT_DIR$/interface/article.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,17 +19,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="594">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interface/article.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="99" column="123" selection-start-line="99" selection-start-column="123" selection-end-line="99" selection-end-column="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="837">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/articleTags.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -34,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
-              <caret line="49" column="28" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="28" />
+            <state relative-caret-position="1080">
+              <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -47,14 +77,35 @@
       </file>
     </leaf>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/db.js" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filterStr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/interface/articleClass.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/interface/articleTags.js" />
+        <option value="$PROJECT_DIR$/interface/user.js" />
+        <option value="$PROJECT_DIR$/util/index.js" />
+        <option value="$PROJECT_DIR$/db.js" />
+        <option value="$PROJECT_DIR$/interface/article.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -64,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,16 +122,30 @@
               <item name="servers" type="b2602c69:ProjectViewProjectNode" />
               <item name="servers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="zielu.svntoolbox.prj.config" />
   </component>
   <component name="RunDashboard">
@@ -111,11 +175,91 @@
       <workItem from="1570783197758" duration="608000" />
       <workItem from="1570851746963" duration="577000" />
       <workItem from="1570852762920" duration="1167000" />
+      <workItem from="1571385281761" duration="6441000" />
+      <workItem from="1571458675579" duration="11752000" />
+      <workItem from="1572343221242" duration="211000" />
+      <workItem from="1574655985939" duration="1977000" />
+      <workItem from="1574672183351" duration="3981000" />
+      <workItem from="1575520041383" duration="41000" />
+      <workItem from="1575990072002" duration="2395000" />
+      <workItem from="1576070536513" duration="2634000" />
+      <workItem from="1576137459331" duration="272000" />
+      <workItem from="1576164683593" duration="1792000" />
+      <workItem from="1576221166320" duration="1841000" />
+      <workItem from="1576225259934" duration="39000" />
+      <workItem from="1576227062924" duration="1157000" />
+      <workItem from="1576229884863" duration="47000" />
+      <workItem from="1576248579054" duration="316000" />
+      <workItem from="1576300783304" duration="386000" />
+      <workItem from="1576314829496" duration="250000" />
+      <workItem from="1576468764570" duration="5820000" />
+      <workItem from="1576504935957" duration="472000" />
+      <workItem from="1576522361902" duration="288000" />
+      <workItem from="1576736790839" duration="5717000" />
+      <workItem from="1576814092736" duration="6225000" />
+      <workItem from="1577180747537" duration="2101000" />
     </task>
+    <task id="LOCAL-00001" summary="update: 更改数据输出格式">
+      <created>1574679341557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574679341557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update: 更改数据输出格式">
+      <created>1576137480078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576137480078</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update: 更改数据输出格式">
+      <created>1576199827281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576199827282</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update: 更改数据输出格式">
+      <created>1576229892406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576229892406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update: 更改数据输出格式">
+      <created>1576478569868</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576478569868</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add: 新增文章接口增加作者字段">
+      <created>1576738732974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576738732974</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update: 完善文章数据表格">
+      <created>1576814136609</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576814136609</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update: 新增文章评论接口">
+      <created>1576902073432</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576902073432</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3302000" />
+    <option name="totallyTimeSpent" value="59457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -135,7 +279,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28501227" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24723247" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -144,28 +288,70 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: 新增文章接口增加作者字段" />
+    <MESSAGE value="update: 更改数据输出格式" />
+    <MESSAGE value="update: 完善文章数据表格" />
+    <MESSAGE value="update: 新增文章评论接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: 新增文章评论接口" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/trim-html/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3512">
+          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/articleClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1686">
+          <caret line="72" column="14" lean-forward="true" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="594">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/articleTags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="49" column="28" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="28" />
+        <state relative-caret-position="1080">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/db.js">
+    <entry file="file://$PROJECT_DIR$/interface/article.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="425">
+          <caret line="99" column="123" selection-start-line="99" selection-start-column="123" selection-end-line="99" selection-end-column="123" />
         </state>
       </provider>
     </entry>
